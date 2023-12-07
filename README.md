@@ -1,3 +1,5 @@
+[![Build Status](https://hxin2020.visualstudio.com/MLOps/_apis/build/status%2Fhxin0.pipelines-dotnet-core%20(1)?branchName=master)](https://hxin2020.visualstudio.com/MLOps/_build/latest?definitionId=5&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
